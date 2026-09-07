@@ -327,6 +327,7 @@ Individual thinkers referenced across the positioning section. Each page present
 ## V
 
 - [Van Beneden, Pierre-Joseph (1809–1894)](v/van-beneden) · zoologist, paleontologist<span class="kw">commensalism, mutualism, parasitology, interspecific relations as gradient</span>
+- [van Fraassen, Bas (1941–)](v/van-fraassen) · philosopher of science<span class="kw">constructive empiricism, empirical adequacy, acceptance without belief, the empirical stance, the bad-lot argument, the modal interpretation of quantum mechanics</span>
 - [Varela, Francisco (1946–2001)](v/varela) · biologist, cognitive scientist<span class="kw">autopoiesis, enactivism, neurophenomenology, the embodied mind</span>
 - [Veblen, Thorstein (1857–1929)](v/veblen) · economist, sociologist<span class="kw">institutional economics, conspicuous consumption, the leisure class, "Why is economics not an evolutionary science?"</span>
 - [Voloshinov, Valentin (1895–1936)](v/voloshinov) · linguist, Marxist theorist<span class="kw">the sign as social and ideological, multiaccentuality, Marxism and the Philosophy of Language, the Bakhtin Circle and the authorship dispute</span>
