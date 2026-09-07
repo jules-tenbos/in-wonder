@@ -6,7 +6,7 @@ lastmod: 2026-08-19
 labels: [positioning, philosophy]
 description: "Cognition's definition holds a quiet second angle: not just that the process runs, but how it is run. Following the how leads out of epistemology's heart into aesthetics — and to the position that with the help of belonging we are creative in private."
 status: ready
-words: 610
+words: 613
 ---
 
 <img src="https://images.unsplash.com/photo-1656504805706-ce25cea5175f?q=80&w=350&h=230&auto=format&fit=crop" alt="A woodcarver at work with a chisel in her workshop, surrounded by carved figures" />
@@ -15,7 +15,7 @@ Hand someone the complete equipment of sculpture — the chisels, the technique,
 
 Every process has two sides: how it is implemented — the nuts and bolts — and how it is run, what is done with it. Cognition is no exception. *The process of acquiring knowledge and understanding through experience* is not only about an implementation that runs but also the way it is applied — and the manner is itself acquired. Among the things cognition acquires, through experience, is the knowhow of its own running.
 
-In [cognition is core](/blog/2026/09/cognition-is-core/) I talked about cognition [within the seed](/seed/cognition/) as the process run by a subject experiencing reality, the process in whose running reality is disclosed. This post follows the second angle to what it implies. If cognition is the process that discloses reality, then how the process is run has a big influence on the type of reality that is disclosed. Two subjects can hold the same tooling — the same language, the same tradition, the same workshop — and still live in different realities.
+In [cognition is core](/blog/2026/09/cognition-is-core/) I talked about cognition [within the context of the seed principles](/seed/cognition/) as the process run by a subject experiencing reality, the process in whose running reality is disclosed. This post follows the second angle to what it implies. If cognition is the process that discloses reality, then how the process is run has a big influence on the type of reality that is disclosed. Two subjects can hold the same tooling — the same language, the same tradition, the same workshop — and still live in different realities.
 
 SPLectrum sees the how as part of the aesthetic territory. Working with meaning to create meaning, the manner of going about using what one holds — this is named expression of meaning in SPLectrum's aesthetics. One process, read by two pillars: as disclosure it is the heart of [epistemology](/reality/epistemology/); as craft it runs deep into aesthetics. The journey from one to the other is no distance at all — it is the same running, seen from its two faces.
 
