@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-06-26
+lastmod: 2026-09-07
 title: "Ontology"
 description: "SPLectrum's ontology — the entities of reality are the concepts of the language medium, held at rest — read across the field: the framework-relativity line, relations as what constitute an entity, and value-by-difference as the root of the relational."
 ---
@@ -35,4 +35,4 @@ The root of "a being by its difference from the others" sits in the study of lan
 
 ---
 
-See also: [Metaphysics](/positioning/subjects/m/metaphysics/) (the territory this reads across) · [Epistemology (close affinity)](/positioning/close-affinity/epistemology/) — the same tooling in the learning loop · [Aesthetics (close affinity)](/positioning/close-affinity/aesthetics/) — the concepts in motion · [Ethics (close affinity)](/positioning/close-affinity/ethics/) · [Pluralism](/positioning/close-affinity/pluralism/)
+See also: [Conceptual relativity (close affinity)](/positioning/close-affinity/conceptual-relativity/) — the frame side of the same relativity · [Metaphysics](/positioning/subjects/m/metaphysics/) (the territory this reads across) · [Epistemology (close affinity)](/positioning/close-affinity/epistemology/) — the same tooling in the learning loop · [Aesthetics (close affinity)](/positioning/close-affinity/aesthetics/) — the concepts in motion · [Ethics (close affinity)](/positioning/close-affinity/ethics/) · [Pluralism](/positioning/close-affinity/pluralism/)

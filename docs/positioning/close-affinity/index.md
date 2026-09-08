@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-03
+lastmod: 2026-09-07
 title: "Close affinity"
 ---
 
@@ -13,6 +13,7 @@ Thinkers and frameworks that share close structural affinity with SPLectrum — 
 - [Aesthetics](aesthetics/) — aesthetics as the dynamic that completes language-as-medium-of-expression: abstract thinking as that dynamic run in practice, the arts where it runs undisguised, and the scattered field the position gathers (a landing page plus five branch pieces)
 - [Basal cognition](/positioning/close-affinity/basal-cognition/) — SPLectrum's widened definition of cognition meets the field studying cognition below the nervous system: research examples of resonance — meaning worked with and created in the non-neural parts of organisms — and the exploration they open, continuity of the cognition process from the non-neural into the neural
 - [The three core values](core-values) — belonging, privacy, creativity as a philosophical triad: who works with subsets, who comes close, and where each account reaches and stops
+- [Conceptual relativity](/positioning/close-affinity/conceptual-relativity/) — the scheme-as-reference-frame dynamic read across Carnap, Quine, Goodman, Kuhn and Putnam: the count with no absolute answer, four arrivals through four materials, and the same move arriving in physics as relational quantum mechanics
 - [Epistemology](epistemology) — SPLectrum's knowing as a two-pole loop: disclosed and private in its happening, stabilised by convergence in its holding, read across the disclosive and dissolving stances, the naturalistic turn, and where standpoint's grounding diverges
 - [Ethics](ethics) — SPLectrum's ethics as values read off a language game, mandatory for members at the scale of the common, with the shared base between games as the reference for any reading: the form-of-life rhyme, norms instituted in practice, where relativism stops, and the realist contrast
 - [Metaphysics](metaphysics) — SPLectrum's metaphysics as disclosure from the subject's seat, relational and with the mirror set aside, and the aspects of that dynamic surfacing across the field's approaches
