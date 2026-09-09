@@ -73,6 +73,7 @@ These are subjects of importance to SPLectrum, referenced within the site.
 
 ## P
 
+- [Phase transitions](p/phase-transitions/) · physics<span class="kw">first-order and continuous transitions, critical points and exponents, order parameters and symmetry breaking, universality classes, the renormalisation group and irrelevant operators, the Batterman–Butterfield dispute over limits and emergence</span>
 - [Phenomenology](p/phenomenology) · philosophy<span class="kw">the study of experience from the inside: Husserl, Heidegger, Merleau-Ponty, Jonas</span>
 - [Philosophy of organism](p/philosophy-of-organism) · philosophy<span class="kw">Whitehead's speculative metaphysics: actual entities, prehension, creativity, God — the cure for the bifurcation of nature</span>
 - [Philosophy of science](p/philosophy-of-science) · philosophy<span class="kw">from logical positivism through falsification, paradigms, and methodological pluralism</span>
