@@ -1,6 +1,6 @@
 ---
 layout: default
-lastmod: 2026-05-15
+lastmod: 2026-09-09
 title: "Thomas Kuhn (1922–1996)"
 description: "Kuhn showed that science alternates between normal puzzle-solving and revolutionary paradigm shifts — incommensurability, not cumulative progress."
 ---
@@ -25,7 +25,7 @@ Kuhn showed that scientific communities constitute their own reality — and tha
 
 **Incommensurability.** Scientists working before and after a revolution do not simply disagree — they speak differently. Key terms change meaning across paradigms. "Mass" in Newtonian mechanics is not "mass" in relativity. Full translation between paradigms is impossible, though communication across them is not. Developed independently of and alongside [Feyerabend](/positioning/persons/f/feyerabend/).
 
-**Progress without convergence.** Does the cycle of revolutions bring science closer to truth? Kuhn deliberately left this open. Each new paradigm solves problems the old one could not, but it also loses things the old paradigm handled well. The cycle produces different ways of practising science, each effective within its own domain — but whether this amounts to progress toward a single reality or just change is the question Kuhn refused to settle. The refusal provoked fierce debate: [Popper](/positioning/persons/p/popper/) and Lakatos attacked the apparent irrationality of paradigm shifts; sociologists of science embraced Kuhn further than he was comfortable with. He spent much of his later career distancing himself from the relativist readings.
+**Progress without convergence.** Does the cycle of revolutions bring science closer to truth? Kuhn deliberately left this open. Each new paradigm solves problems the old one could not, but it also loses things the old paradigm handled well. The cycle produces different ways of practising science, each effective within its own domain — but whether this amounts to progress toward a single reality or just change is the question Kuhn refused to settle. The refusal provoked fierce debate: [Popper](/positioning/persons/p/popper/) and Lakatos attacked the apparent irrationality of paradigm shifts; sociologists of science embraced Kuhn further than he was comfortable with. He spent much of his later career distancing himself from the relativist readings. The sharpest form of the charge: if the paradigm sets the standards, what separates the revolutionary from the crank — both are out of step with the standing frame. Kuhn's answer ("Objectivity, Value Judgment, and Theory Choice," 1973) was a set of values that persist across paradigms — accuracy, consistency, scope, simplicity, fruitfulness — shared criteria that guide theory choice without functioning as an algorithm: scientists weigh them differently, which is why rational people can disagree, and why the choice is judgment rather than either proof or caprice.
 
 **The 1969 Postscript.** In response to criticism that "paradigm" was used in too many senses — one critic counted twenty-one — Kuhn added a postscript to the second edition of *Structure*. He introduced "disciplinary matrix" as a more precise replacement and distinguished the sociological sense of paradigm (what a community shares) from the exemplar sense (a concrete problem-solution that serves as a model). The concept didn't stay static.
 
