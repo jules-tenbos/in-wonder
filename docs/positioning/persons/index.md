@@ -357,6 +357,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Williams, George C. (1926–2010)](w/williams) · evolutionary biologist<span class="kw">Adaptation and Natural Selection, gene-level critique of group selection, senescence, sex, Darwinian medicine</span>
 - [Wilson, David Sloan (1949–)](w/wilson-ds) · evolutionary biologist<span class="kw">multilevel selection, the revival of group selection, Unto Others, prosociality, the evolution of religion</span>
 - [Wilson, E. O. (1929–2021)](w/wilson) · biologist<span class="kw">Sociobiology, island biogeography, the ants, biodiversity, group selection turn</span>
+- [Wilson, Jessica (c. 1965–)](w/wilson-jm) · philosopher<span class="kw">metaphysical emergence weak and strong, the powers-based proper-subset strategy, the reply to causal exclusion, Hume's Dictum, fundamental determinables</span>
 - [Wittgenstein, Ludwig (1889–1951)](w/wittgenstein) · philosopher<span class="kw">language games, forms of life, meaning as use</span>
 - [Woese, Carl (1928–2012)](w/woese) · microbiologist<span class="kw">the three domains of life, ribosomal RNA phylogenetics, the Archaea, the progenote</span>
 - [Wolfram, Stephen (1959–)](w/wolfram) · physicist, computer scientist<span class="kw">cellular automata, A New Kind of Science, computational irreducibility, the Wolfram model, Mathematica</span>
