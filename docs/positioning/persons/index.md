@@ -36,6 +36,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Bateson, William (1861–1926)](b/bateson-w) · biologist<span class="kw">coined "genetics", Mendel's champion, the Mendelian-biometrician debate, discontinuous variation</span>
 - [Baumgarten, Alexander Gottlieb (1714–1762)](b/baumgarten) · philosopher<span class="kw">coined "aesthetics", the science of sensory cognition, gnoseologia inferior, beauty as perfection of sensible cognition</span>
 - [Beauvoir, Simone de (1908–1986)](b/beauvoir) · philosopher<span class="kw">existentialist ethics, the ethics of ambiguity, The Second Sex, woman as the Other, immanence and transcendence</span>
+- [Bedau, Mark (1953–)](b/bedau) · philosopher<span class="kw">weak emergence, derivable only by simulation, artificial life, open-ended evolution, protocells, living technology</span>
 - [Bell, John (1928–1990)](b/bell) · physicist<span class="kw">Bell's theorem, Bell inequalities, the impossibility of local hidden variables, the measurement problem</span>
 - [Bennett, Charles (1943–)](b/bennett) · physicist<span class="kw">reversible computation, Maxwell's demon resolved via erasure, quantum teleportation, quantum key distribution</span>
 - [Berger, Peter L. (1929–2017)](b/berger) · sociologist<span class="kw">The Social Construction of Reality, the sociology of everyday knowledge, the sacred canopy and sociology of religion, the recanted secularisation thesis, pluralisation</span>
@@ -51,6 +52,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Boyd, Robert (1948–)](b/boyd) · anthropologist<span class="kw">dual-inheritance theory (with Richerson), mathematical models of cultural evolution, transmission biases, cultural group selection</span>
 - [Bradley, F. H. (1846–1924)](b/bradley) · philosopher<span class="kw">absolute idealism, Appearance and Reality, the critique of relations, the Absolute, British idealism</span>
 - [Brandom, Robert (1950–)](b/brandom) · philosopher<span class="kw">inferentialism, deontic scorekeeping, commitment over representation, expressive rationality</span>
+- [Broad, C. D. (1887–1971)](b/broad) · philosopher<span class="kw">British Emergentism systematised, trans-ordinal laws, the mechanism/emergence/vitalism trilemma, The Mind and Its Place in Nature, critical philosophy</span>
 - [Buber, Martin (1878–1965)](b/buber) · philosopher<span class="kw">I and Thou, the dialogical principle, relation as primary, the between, Hasidism, encounter</span>
 - [Burke, Kenneth (1897–1993)](b/burke-k) · rhetorician, philosopher<span class="kw">language as symbolic action, dramatism, the pentad, identification, literature as equipment for living</span>
 
@@ -61,6 +63,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Carroll, Sean (1966–)](c/carroll) · theoretical physicist<span class="kw">the arrow of time, the Past Hypothesis, many-worlds interpretation, the cosmological multiverse</span>
 - [Cassirer, Ernst (1874–1945)](c/cassirer) · philosopher<span class="kw">the philosophy of symbolic forms, the animal symbolicum, neo-Kantianism, substance and function, the Davos debate</span>
 - [Castoriadis, Cornelius (1922–1997)](c/castoriadis) · philosopher<span class="kw">the imaginary institution of society, radical imagination, autonomy as conscious self-institution, the social imaginary</span>
+- [Chalmers, David (1966–)](c/chalmers) · philosopher<span class="kw">the hard problem of consciousness, zombies and the conceivability argument, naturalistic dualism, the extended mind, strong and weak emergence, the meta-problem</span>
 - [Chomsky, Noam (1928–)](c/chomsky) · linguist, cognitive scientist<span class="kw">generative grammar, universal grammar, the poverty of the stimulus, the cognitive revolution, the Chomsky hierarchy, Manufacturing Consent</span>
 - [Clark, James (1964–)](c/clark) · software engineer<span class="kw">XML technical lead, editor of XSLT 1.0 and XPath 1.0, expat, RELAX NG, groff</span>
 - [Cohen, Hermann (1842–1918)](c/cohen) · philosopher<span class="kw">Marburg neo-Kantianism, the logic of pure cognition, the productive role of thought, ethical socialism</span>
@@ -94,6 +97,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Dirac, Paul (1902–1984)](d/dirac) · physicist<span class="kw">the Dirac equation, quantum field theory, antimatter, bra-ket notation, the Principles of Quantum Mechanics</span>
 - [Dobzhansky, Theodosius (1900–1975)](d/dobzhansky) · geneticist, evolutionary biologist<span class="kw">Genetics and the Origin of Species, Modern Synthesis bridge, isolating mechanisms, nothing in biology</span>
 - [Doolittle, W. Ford (1941–)](d/doolittle) · biochemist<span class="kw">the tree-of-life critique, horizontal gene transfer, the web of life, pattern pluralism</span>
+- [Durkheim, Émile (1858–1917)](d/durkheim) · sociologist<span class="kw">social facts sui generis, exteriority and constraint, anomie, collective representations and effervescence, the founding of sociology</span>
 
 ## E
 
@@ -177,6 +181,7 @@ Individual thinkers referenced across the positioning section. Each page present
 - [Kauffman, Stuart (1939–)](k/kauffman) · theoretical biologist<span class="kw">self-organisation, autocatalytic sets, NK landscapes, the adjacent possible</span>
 - [Kelly, George (1905–1967)](k/kelly) · psychologist<span class="kw">personal construct psychology, constructive alternativism, the person as anticipator, bipolar constructs, the Repertory Grid, fixed-role therapy</span>
 - [Kierkegaard, Søren (1813–1855)](k/kierkegaard) · philosopher<span class="kw">the three stages of existence, the leap of faith, indirect communication, anxiety and despair, the individual</span>
+- [Kim, Jaegwon (1934–2019)](k/kim) · philosopher<span class="kw">the causal exclusion argument, supervenience formalised, critique of non-reductive physicalism, functional reduction, Mind in a Physical World</span>
 - [Kimura, Motoo (1924–1994)](k/kimura) · population geneticist<span class="kw">neutral theory of molecular evolution, diffusion equations, molecular clock, drift vs selection</span>
 - [Kitcher, Philip (1947–)](k/kitcher) · philosopher of science<span class="kw">the organisation of cognitive labour, the critique of sociobiology, mathematical naturalism, scientific progress</span>
 - [Kleppmann, Martin](k/kleppmann) · computer scientist<span class="kw">Designing Data-Intensive Applications, local-first software, CRDTs, Automerge, distributed data systems</span>
