@@ -43,6 +43,109 @@ Every definition in the literature can be located by where it stands on five axe
 4. **Downward causation is the recurring colouring candidate**: system-level constraint narrated as the whole *acting on* its parts — flagged across philosophy (Kim's target), social science (structure vs agency), and biology.
 5. **Nobody owns a cross-disciplinary definition.** Each discipline's working sense is locally stable; the cross-discipline word is not — which is the finding a language-native reformulation would have to explain rather than lament.
 
+## 5. The typed catalogue (added 2026-09-09)
+
+Inclusion bar: a type earns a row only for a DISTINCT definition; label-only synonyms are folded as aliases. Columns: origin · definition in one line · axis position (per §1) · home discipline. Mitigation of ballooning happens through the categorisations (Jules): the axis column is what compresses the list back into the map.
+
+| Type | Origin | One-line definition | Axes | Home |
+|---|---|---|---|---|
+| **Heteropathic effects** | Mill 1843 | Joint effects not the sum of separate effects (chemical vs mechanical laws) | proto; diachronic-neutral | philosophy |
+| **Emergent (vs resultant)** | Lewes 1875 | An effect incommensurable with its components, not traceable as their sum | proto-ontological | philosophy |
+| **Emergent evolution** | Lloyd Morgan 1923 | Genuinely new qualities arising in evolutionary sequence, to be accepted with natural piety | diachronic; ontological | philosophy |
+| **British-emergentist emergence** | Broad 1925 | Properties of wholes underivable in principle from components-in-other-combinations; trans-ordinal laws ultimate | synchronic; ontological; law-based | philosophy |
+| **Emergent interactionism** | Sperry 1960s–80s | Consciousness as emergent brain property exerting downward causal control | synchronic; ontological; downward-causal | neuroscience |
+| **System features, causally emergent** | Searle 1992 ("emergent1/emergent2") | emergent1: system features explained by element interactions; emergent2 (rejected): features with powers beyond those interactions | the weak/strong cut avant la lettre | philosophy |
+| **Weak emergence (Chalmers)** | Chalmers 2006 | Unexpected given low-level principles, but deducible in principle | epistemic; synchronic-neutral | philosophy |
+| **Strong emergence (Chalmers)** | Chalmers 2006 | Not deducible even in principle from the low-level domain; entails new fundamental laws | ontological; synchronic | philosophy |
+| **Nominal emergence** | Bedau 1997/2002 | Any macro-property a micro-constituent cannot possess | innocuous baseline | philosophy/ALife |
+| **Weak emergence (Bedau)** | Bedau 1997 | Derivable from micro-dynamics but only by simulation (explanatory incompressibility) | epistemic; diachronic-friendly | ALife/complexity |
+| **Strong emergence (Bedau's foil)** | Bedau 1997 | Supervenient with irreducible causal powers ("uncomfortably like magic") | ontological | philosophy |
+| **Weak metaphysical emergence** | J. Wilson 2015/2021 | Dependent feature has a PROPER SUBSET of the base's powers | ontological; physicalism-compatible | philosophy |
+| **Strong metaphysical emergence** | J. Wilson 2015/2021 | Dependent feature has at least one power the base lacks | ontological; anti-physicalist | philosophy |
+| **Modest vs radical kinds** | Van Gulick 2001 | Grid of ascending epistemic and ontological variants of emergence/reduction positions | the taxonomists' taxonomy | philosophy |
+| **Fusion emergence** | Humphreys 1997/2016 | Base entities fuse, losing identity in the emergent; denies the layered supervenience picture | ontological; diachronic; entity-based | philosophy |
+| **Transformational emergence** | Guay & Sartenaer 2016 | S2 emerges from S1 via a spatiotemporally continuous (possibly deterministic) transformation — diachronic, weakly ontological | diachronic; weakly ontological | philosophy |
+| **Flat emergence** | Sartenaer 2018 | Emergence without levels — novelty in one-level world-history | diachronic; anti-layered | philosophy |
+| **Contextual emergence** | Bishop & Atmanspacher 2006 | Lower level gives necessary but NOT sufficient conditions; sufficiency supplied by stability conditions of a context | relational-epistemic/ontological hybrid | physics→cognition |
+| **Causal emergence** | Hoel et al. 2013 (PNAS) | Coarse-grained description carries HIGHER effective information than the micro — macro beats micro, quantified | ontological-leaning; measure-based | complexity/neuroscience |
+| **Asymptotic emergence** | Batterman 2002 | Novel behaviour located in singular limits; explained by asymptotic reasoning, neither reduction nor classical emergence | epistemic-ontological hybrid; limit-based | physics/philosophy |
+| **Protectorate emergence** | Laughlin 2005 | Macro-laws insensitive to and protected from micro-detail | ontological-leaning | physics |
+| **Intrinsic emergence** | Crutchfield 1994 | Pattern formation that increases the system's OWN computational capability (not observer-relative) | epistemic→ontological bridge | complexity |
+| **Emergence (complexity working def.)** | Goldstein 1999 | Novel, coherent macro-level structures/patterns/properties arising dynamically; ostensible | descriptive cluster | complexity |
+| **Emergence vs self-organisation** | De Wolf & Holvoet 2004 | Emergence = novel coherent macro emergents from micro interaction; distinguished from self-organisation (the ordering process); four combinable cases | taxonomy; diachronic | multi-agent systems |
+| **Four types (nominal→strong)** | Fromm 2005 | Cross-disciplinary ladder: intentional/predictable → weak → multiple → strong emergence in multi-agent systems | taxonomy; engineering-facing | complexity |
+| **Three orders** | Deacon 2003/2011 | Thermodynamic (synchronic supervenience) → morphodynamic (diachronic self-organisation) → teleodynamic (biased across generations: life, mind) | diachronic ladder; ontological | biology/philosophy |
+| **Top-down causation, five classes** | Ellis 2008–12 | Algorithmic; non-adaptive information control; adaptive selection; adaptive information control; intelligent — five distinct downward-influence mechanisms | causal taxonomy | physics/biology |
+| **Multiscale (strong) variety** | Bar-Yam 2004 | Macro-properties determined only at system scale via multiscale structure, not from parts pairwise | ontological-leaning; formal | complexity |
+| **Social emergence** | Durkheim 1895 (working); Sawyer 2005 (explicit) | Social facts sui generis — exterior, constraining, irreducible to members; Sawyer maps the philosophy taxonomy onto it | ontological (working use) | sociology |
+| **Spontaneous order** | Hayek 1940s–70s | Order resulting from human action but not human design; knowledge no participant holds | diachronic; epistemic-flavoured | economics |
+| **Emergent abilities (LLMs)** | Wei et al. 2022 | Capabilities absent at small scale appearing discontinuously at large scale — CONTESTED (Schaeffer et al. 2023: metric artifacts) | the epistemic/ontological dispute live | AI |
+
+**Aliases folded (not distinct definitions):** "novel properties," "systemic properties," "holistic properties" → nominal/weak family; "radical emergence" → strong (Chalmers/Bedau foil); "diachronic emergence" as bare label → the axis, instantiated by transformational/Deacon rows; "supervenient emergence" → British/Chalmers family; "epistemological emergence" → the axis; "organisational emergence" (management lit.) → Goldstein-family working use; "second-order emergence" (Gilbert, social simulation: agents recognising the emergent) — borderline: arguably distinct (reflexivity added), held as candidate row.
+
+**Rows the §1–4 overview had not covered (surfaced by the catalogue):** causal emergence (Hoel) — a serious quantified line with its own critique literature (Dewhurst); contextual emergence; transformational and flat emergence; intrinsic emergence (Crutchfield); Deacon's orders; Ellis's classes; Bar-Yam's multiscale variety; Sperry; Searle's two senses; the Gilbert reflexivity candidate.
+
+**First convergence observations (for the formulation phase, not conclusions):** the ontological rows split cleanly into powers-based (Wilson), law-based (Broad/Chalmers), measure-based (Hoel), and structure-based (Bar-Yam, Laughlin) — different currencies for the same claim; nearly every science-side row is diachronic and nearly every philosophy-side row synchronic, confirming finding 1 of §4; and three rows (contextual, asymptotic, intrinsic) refuse the epistemic/ontological binary outright — the axis the field fights over is one some of its own best entries decline.
+
+## 6. Definition contexts and strength (added 2026-09-09 — the instrument for the categorisation discussion)
+
+Jules's requirement: for each type, what LANGUAGE CONTEXT the definition is stated in, and HOW WELL-DEFINED it is — including whether its own load-bearing terms are defined. This feeds (a) the categorisations that will restructure the emergence landing, and (b) the evaluation of each definition's strength. Grades: **F** formal (mathematically defined, terms defined within a formalism); **O** operational (a testable/runnable criterion); **C** criterial (necessary/sufficient conditions in a discipline's defined vocabulary); **I** informal (cluster description or gesture). "Undefined load" = load-bearing terms the definition uses but does not define.
+
+| Type | Language context of the definition | Grade | Undefined load |
+|---|---|---|---|
+| Heteropathic effects | 19th-c. logic of causes/composition of forces | I | "sum of effects" across categories |
+| Emergent (Lewes) | same, plus resultant/emergent contrast | I | "incommensurable," "traceable" |
+| Alexander's hierarchy | speculative metaphysics (Space-Time) | I | "quality," "level," piety as method not criterion |
+| Emergent evolution (Morgan) | natural history + metaphysics | I | "genuinely new" |
+| British emergentism (Broad) | his critical apparatus: orders, trans-ordinal laws, in-principle deducibility | C | "in principle" (indexed to the mathematics assumed — the clause that failed); "ultimate" |
+| More is Different (Anderson) | condensed-matter physics: symmetry breaking, N→large | C (F within physics) | "own laws" (autonomy not formalised in the essay; later RG work supplies it) |
+| Emergent interactionism (Sperry) | neuroscience prose | I | "control," downward causation unanalysed |
+| Searle's two senses | philosophy of mind, causal explanation | C | "explained by" |
+| Weak emergence (Bedau) | computational: micro-dynamics, derivation, simulation | O/F | "simulation" precise; "explanation" less so — the epistemic-only objection lives exactly here |
+| Nominal (Bedau) | set-theoretic property talk | C | none serious — deliberately thin |
+| Strong (Bedau's foil) | supervenience + powers talk | C | "irreducible causal power" |
+| Weak/strong (Chalmers) | modal epistemology: deducibility-in-principle, conceivability, 2D semantics | C (formal apparatus behind it) | "in principle" (ideal reasoner — the totality problem); "physical facts = structure/dynamics" |
+| Weak/strong metaphysical (Wilson) | powers metaphysics | C | "power" taken as primitive (acknowledged); the framework's neutrality contested |
+| Options grid (Van Gulick) | meta-taxonomy over positions | C | inherits each position's terms |
+| Fusion (Humphreys) | event/entity metaphysics + physics examples | C | "loss of identity" |
+| Transformational (Guay & Sartenaer) | diachronic ontology, spatiotemporal continuity | C | "novel kind" at t2 |
+| Flat (Sartenaer) | one-level ontology | C | "level" (negatively defined) |
+| Contextual (Bishop & Atmanspacher) | mathematical physics: state spaces, stability conditions, asymptotic expansions | F | "context" is the primitive — but its stability conditions ARE the formal content |
+| Causal emergence (Hoel) | information theory: effective information over interventions | F | fully defined internally; critics (Dewhurst) target the normalisation choices, not undefinedness |
+| Asymptotic (Batterman) | applied mathematics: singular limits, RG | F (mathematics) / C (its philosophy) | "explanation" — what limits explain is the dispute itself |
+| Protectorates (Laughlin & Pines) | condensed-matter physics | C | "protected" precise in physics (RG); "higher organising principle" not |
+| Intrinsic (Crutchfield) | computational mechanics: ε-machines, statistical complexity | F | fully defined internally |
+| Goldstein's cluster | complexity-science prose | I | "novel," "coherent" — the cluster is the definition |
+| De Wolf & Holvoet | multi-agent engineering | C | "novel with regard to the parts" |
+| Fromm's four types | multi-agent systems + feedback vocabulary | C | boundaries between types heuristic |
+| Deacon's three orders | thermodynamics→teleology vocabulary of his own construction | C | "teleodynamic" defined within his own system only |
+| Ellis's five classes | systems/causation prose with physics cases | C | "top-down" — the exclusion-argument vulnerability unaddressed per class |
+| Bar-Yam multiscale | mathematical: multiscale variety/information | F | fully defined internally |
+| Social (Durkheim) | sociological method: exteriority, constraint | C | "sui generis" — the micro-to-macro join (his own acknowledged gap) |
+| Sawyer's social emergence | philosophy taxonomy applied to sociology | C | inherits both sides' terms |
+| Spontaneous order (Hayek) | economics: knowledge, design | C | "order" graded informally |
+| Emergent abilities (LLMs) | benchmark curves: scale, metrics | O | "ability" — exactly what Schaeffer's critique exploits: the metric defines the ability |
+| O'Connor non-structural | property metaphysics | C | "non-structural" defined negatively |
+| Wimsatt aggregativity | philosophy of biology: four testable conditions | O | the strongest operational entry on the philosophy side |
+| Kim's formalisation | supervenience apparatus | C | precise; built for critique, inherits "levels" |
+| Stephan's grades | German-analytic taxonomy | C | inherits per-grade terms |
+
+**First observations for the categorisation discussion (not conclusions):**
+1. The F-grade rows cluster in physics/mathematics/information theory (contextual, causal, asymptotic, intrinsic, Bar-Yam) — full internal definition, bought by narrow scope: each is exact *within a formalism* and silent outside it.
+2. The I-grade rows cluster at the tradition's origin (Mill→Morgan) and in complexity prose (Goldstein) — historically foundational, definitionally weakest.
+3. The C-grade middle is where the philosophy lives — and its recurring undefined load is a small set of shared primitives: "level," "power," "in principle," "novel." The categorisation could cut by WHICH primitive each definition leans on.
+4. Strength and context correlate: the better-defined a type, the narrower its language context — precision purchased by localisation. No type is both broad and formal. (If this survives scrutiny it is itself a datum for the formulation.)
+
+## 7. Categorisation candidates (the discussion's running record, opened 2026-09-10)
+
+The categorisations will restructure the emergence landing; decided by discussing the list. Settled and candidate categories:
+
+1. **The principals (persons) — SETTLED, built** (`the-principals.md`): the five who carry the debate by name, each read against the bundle's guiding questions.
+2. **Emergence without naming it — candidate (Jules, 2026-09-10):** work where the phenomenon is treated under other vocabulary, *deliberately* — people declining the word because of the confusion it creates. The avoidance is itself evidence about the word's condition. Traces already in the catalogue: Batterman's "asymptotic reasoning," physics' "effective theories"/"protectorates," Ellis's "top-down causation," Deacon's coined vocabulary, complexity's "self-organisation." This is also the future doorway for the material removed from the landing 2026-09-10 (CAS, assembly theory, autopoiesis, social construction…) — re-entering under a category that states why it belongs, not as a discipline tour.
+3. Further candidates from the §6 observations, undecided: by shared undefined primitive ("level" / "power" / "in principle" / "novel"); by definition strength (F/O/C/I); by language context (formalism-local vs broad).
+
 ## Sources anchored this round
+
+Catalogue round adds: Hoel et al., PNAS 110:19790 (2013) + Dewhurst's critique (2021); Guay & Sartenaer, EJPS (2016); Sartenaer, "Flat Emergence" (2018); Bishop & Atmanspacher (2006) + Scholarpedia "Contextual emergence"; Fromm, arXiv nlin/0506028 (2005); De Wolf & Holvoet (2004); Deacon, "Three Levels of Emergent Phenomena" / Incomplete Nature (2011); Ellis, "Top-down causation" (2008–12); Crutchfield, "The Calculi of Emergence" (1994); Bar-Yam, "A Mathematical Theory of Strong Emergence" (2004).
 
 SEP "Emergent Properties"; IEP "Emergence"; Chalmers "Strong and Weak Emergence" (2006); Bedau "Weak Emergence" (1997); Wilson *Metaphysical Emergence* (2021, and the PhilSci-archive statement); Humphreys *Emergence* (2016); Van Gulick (2001); Anderson *Science* 177 (1972); Wei et al. (2022) and Schaeffer et al. (NeurIPS 2023) for the AI dispute.
